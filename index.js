@@ -5,9 +5,9 @@
 //Codigo por: @Racolito
 
 
-const Discord = require('discord.js');//Binlioteca de Discord
+const Discord = require('discord.js');//Biblioteca de Discord
 const client = new Discord.Client();//Creación del Cliente
-const five = require('johnny-five');//Usaremos labiblioteca johnny-five para este proyecto para que la placa arduino entienda Javasceipt
+const five = require('johnny-five');//Usaremos la biblioteca johnny-five para este proyecto para que la placa arduino entienda Javasceipt
 const board = new five.Board();
 
 client.on('ready', () => { //Creación del Bot de DIscord

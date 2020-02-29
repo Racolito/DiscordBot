@@ -55,4 +55,4 @@ board.on("ready", () =>{
 
 
 
-client.login('Njc0MDA4NTU2NjAwNjg4NjYx.XjiVhg.savNFaNb0cSk1BI3rfS-QCQmiEk'); //Pimero se necesita elToken o llave del Bot de Discord qu este te puede dar.
+client.login('Aquí'); //Pimero se necesita elToken o llave del Bot de Discord qu este te puede dar.

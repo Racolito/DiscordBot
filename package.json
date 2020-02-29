@@ -1,0 +1,16 @@
+{
+  "name": "DiscordBot",
+  "version": "1.0.0",
+  "description": "Codigo para encender leds usando un Bot de Discord y Arduino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Doraemon"
+  },
+  "keywords": [],
+  "author": "Racolito",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "johnny-five": "^1.4.0"
+  }
+}
